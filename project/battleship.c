@@ -14,7 +14,7 @@ void place_ships();
 int fire(int row, int col);
 int is_sunk(int ship);
 int is_valid(int row, int col);
-
+//Ian Purkis Honors Project - ipurkis2 656176178
 int main() {
     int row, col;
     init_board();
