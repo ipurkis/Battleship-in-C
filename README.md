@@ -1,2 +1,1 @@
-# My-Projects
-- Battleship in C
+This project implements the popular boardgame Battleship in C!
